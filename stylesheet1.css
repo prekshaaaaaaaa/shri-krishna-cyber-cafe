@@ -19,6 +19,7 @@ font-size:35px;
 font-family:helvetica,arial black;
 margin-top:0px;
 }
+
 #nav{
 font-style:tohama;
 padding-left:50px;;
@@ -31,7 +32,7 @@ margin:2px;
 padding:0;
 margin:0;
 list-style-type:none;
-text-align:centre;
+text-align:center;
 display:inline;
 }
 #nav li{
@@ -51,25 +52,47 @@ vertical-align:middle;
 background-color:black;
 color:rgb(249,250,217);
 }
-p{
-color:white;
-font-size:55px;
+h1{
+color:black;
+font-size:50px;
 font-family:ARIAL BLACK;
-float:center;
-display:block;
-margin:3px auto;
-
+text-align:center;
 }
 .image{
 float:center;
 display:block;
 margin:1px auto;
 
-h1{
-color:black;
-font-size:35px;
+}
+p{
+color:white;
+font-size:55px;
+font-family:ARIAL BLACK;
+margin:3px;
+}
+.para1{
+color:red;
+font-size:50px;
 font-family:tohama;
 text-align:center;
+
+}
+.para{
+color:red;
+font-size:20px;
+font-family:tohama;
+text-align:center;
+display:block;
+
+}
+#nav1 ul{
+padding:0;
+margin:0;
+list-style-type:none;
+text-align:center;
+display:inline;
+font-size:25px;
+font-family:tohama;
 
 }
 #header6{
@@ -83,3 +106,13 @@ text-align:center;
 padding-top:10px;
 
 }
+#header{
+background-color:rgb(250,249,234);
+
+margin:3px 2px 0px 2px;
+text-align:center;
+
+}
+
+
+
